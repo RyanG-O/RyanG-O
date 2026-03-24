@@ -49,7 +49,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyanG-O&style=flat-square&color=blueviolet" alt="profile views"/>
-</p>
