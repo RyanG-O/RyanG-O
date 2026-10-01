@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Ryan Gong</h1>
+<h1>Hi , I'm Ryan Gong</h1>
 
 <p><em>Aspiring Software Developer · Machine Learning Enthusiast</em></p>
 
@@ -10,22 +10,21 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🎯 Currently building strong fundamentals and meaningful projects
-- 🤖 Growing interest in machine learning and AI
-- 🚀 Goal: land a software engineering role and keep growing
-- ☕ Debugs better with coffee in hand
+- Currently building strong fundamentals and meaningful projects
+- Growing interest in machine learning and AI
+- Goal: land a software engineering role and keep growing
 
 ---
 
-### 🛠 Skills & Tools
+### Skills & Tools
 
 ![Python](https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RyanG-O&show_icons=true&theme=tokyonight" />
@@ -39,7 +38,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/ryan-gong-16903938a">
