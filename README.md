@@ -20,7 +20,7 @@
 
 ### Skills & Tools
 
-![Python](https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode)
+![Python](https://skillicons.dev/icons?i=python,java,javascript,html,css,webpack,c,cpp,git,github,vscode)
 
 ---
 
